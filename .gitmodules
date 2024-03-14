@@ -1,0 +1,6 @@
+[submodule "net"]
+	path = net
+	url = git@github.com:yeet-robotics/golang-net.git
+[submodule "utls"]
+	path = utls
+	url = git@github.com:yeet-robotics/utls.git
